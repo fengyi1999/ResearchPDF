@@ -1,0 +1,10 @@
+PyMuPDF==1.23.8
+pdfminer.six==20231228
+opencv-python==4.9.0.80
+pytesseract==0.3.10
+whoosh==2.7.4
+PyQt5==5.15.10
+numpy==1.26.3
+Pillow==10.2.0
+python-magic==0.4.27
+tqdm==4.66.1 
